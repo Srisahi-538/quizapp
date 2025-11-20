@@ -1,2 +1,3 @@
 # Revolutionizing Bank Exam Preparation: A New Era of Adaptive Learning
 The journey to securing a position in the banking sector is highly competitive, with countless aspirants dedicating immense time and effort to mastering vast syllabi. A significant challenge they face is the limitation of traditional study methods, which often rely on static question banks. This leads to rote memorization rather than genuine understanding, leaving candidates underprepared for the unpredictable nature of the actual examinations.
+run this app.py with every time new groq api key starts with "gsk_......"
